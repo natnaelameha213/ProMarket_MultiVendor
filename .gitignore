@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# secrets and local config
+.env
+config.local.php
+*.local.php
+# logs / backups / dumps
+*.log
+*.bak
+*.zip
+# uploads created at runtime (keep the folder, ignore new files)
